@@ -1,0 +1,17 @@
+{
+  "user": "USERNAME",
+  "password": "PASSWORD",
+
+  "capabilities": {
+    "build": "example",
+    "name": "example",
+    "debug": true
+  },
+  "project.stories": [{
+    "story": "example.story"
+  }],
+
+  "browsers": [{
+    "browser": "chrome"
+  }]
+}

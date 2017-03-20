@@ -1,0 +1,28 @@
+{
+  "user": "USERNAME",
+  "password": "PASSWORD",
+  "capabilities": {
+    "build": "example",
+    "name": "example",
+    "debug": true
+  },
+  "project.stories": [
+    {
+      "story": "single_1.story;single.story"
+    }
+  ],
+  "browsers": [
+    {
+      "browser": "chrome"
+    },
+    {
+      "browser": "firefox"
+    },
+    {
+      "browser": "chrome"
+    },
+    {
+      "browser": "ie"
+    }
+  ]
+}
